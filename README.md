@@ -23,7 +23,7 @@ I am proficient in a variety of tools and technologies relevant to data science 
 
 ## Get In Touch
 
-I'm always open to new opportunities, collaborations, and discussions related to data science and analytics. Feel free to reach out to me via email at your.email@example.com.
+I'm always open to new opportunities, collaborations, and discussions related to data science and analytics. Feel free to reach out to me via email at msudipto409@gmail.com
 
 Thank you for visiting my GitHub repository! I look forward to connecting with fellow data enthusiasts.
 
