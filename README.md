@@ -1,4 +1,4 @@
-# Your Name - Data Scientist
+# Sudipta Mukherjee - Data Scientist
 
 Welcome to my GitHub repository! This is where I showcase my work in the field of data science, including projects, collaborations, and personal explorations. I'm passionate about leveraging data to gain insights and make informed decisions. Feel free to explore my projects and get in touch if you're interested in collaboration or have any questions.
 
