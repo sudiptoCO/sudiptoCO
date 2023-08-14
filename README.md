@@ -6,8 +6,8 @@ Welcome to my GitHub repository! This is where I showcase my work in the field o
 
 I am a dedicated and results-driven data scientist with a strong academic background and industry experience. I have successfully completed internships with both established corporations and dynamic startups, honing my skills in predictive analytics, data visualization, and cloud technologies.
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/sudipto-iitm/))
-- University Profile: [@YourTwitterHandle]([https://twitter.com/yourhandle](https://app.onlinedegree.iitm.ac.in/student/21F1006264))
+- LinkedIn: https://www.linkedin.com/in/sudipto-iitm/
+- University Profile: https://app.onlinedegree.iitm.ac.in/student/21F1006264
 
 
 ## Tools and Technologies
