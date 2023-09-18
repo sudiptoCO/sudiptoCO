@@ -19,7 +19,7 @@ I am proficient in a variety of tools and technologies relevant to data science 
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Cloud Platforms: Google Cloud Platform
 - SQL and Database Management
-- ... (add more as appropriate)
+- Big Data: Spark
 
 ## Get In Touch
 
