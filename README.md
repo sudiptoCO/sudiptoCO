@@ -17,7 +17,7 @@ I am proficient in a variety of tools and technologies relevant to data science 
 - Python
 - Machine Learning: scikit-learn, TensorFlow
 - Data Visualization: Matplotlib, Seaborn, Plotly
-- Cloud Platforms: Google Cloud Platform
+- Cloud Platforms: GCP, AWS
 - SQL and Database Management
 - Big Data: Spark
 
